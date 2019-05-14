@@ -2,6 +2,12 @@
 
 This is the Discord bot for the Infomation Technlolgy Club of Ivy Tech Community Colllege.
 
+#Requirment
+1.Node.js
+2.Npm
+[Download Here] (https://nodejs.org/en/)
+
+
 ## Installation
 
 Use whatever perfer shell command to make the folder that will house the bot.
@@ -10,7 +16,7 @@ Use whatever perfer shell command to make the folder that will house the bot.
 mkdir test-bot
 ```
 
-Use the package manager [npm](https://www.npmjs.com/) to initalize npm and install the discord js API Library.
+Use the package manager [npm](https://www.npmjs.com/) to initalize npm and install the discord API Library.
 
 ```bash
 npm init -y
@@ -24,14 +30,6 @@ npm install discord.js
 ## Usage
 
 Naviagate to Discord Developer Portal [Discord](https://discordapp.com/developers/applications/) to establish a web socket
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -50,6 +48,6 @@ To test the bot on your local machine please add the following to the package.js
 
 To load the bot run 
 
-``bash
+```bash
 npm run dev
 ```
