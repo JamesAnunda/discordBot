@@ -39,6 +39,12 @@ Please make sure to update tests as appropriate.
 ## Testing
 To test the bot on your local machine please add the following to the package.json file.
 
+```bash
+npm install nodemon --save-dev
+```
+
+After install nodemon, which relode the code as soon changes are saved and deteced
+
 ```
   "scripts": {
   "start": "node index.js",
