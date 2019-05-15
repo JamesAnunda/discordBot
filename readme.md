@@ -47,9 +47,10 @@ After install nodemon, which relode the code as soon changes are saved and detec
 
 ```
   "scripts": {
-  "start": "node index.js",
-  "dev": "nodemon index.js"
-  },d
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
 ```
 
 To load the bot run 
