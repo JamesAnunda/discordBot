@@ -3,9 +3,9 @@
 This is the Discord bot for the Infomation Technlolgy Club of Ivy Tech Community Colllege.
 
 # Requirment
-1.Node.js
-2.Npm
-[Download Here] (https://nodejs.org/en/)
+1. Node.js
+2. Npm
+3. Download Here: https://nodejs.org/en/
 
 
 ## Installation
@@ -43,7 +43,7 @@ To test the bot on your local machine please add the following to the package.js
 npm install nodemon --save-dev
 ```
 
-After install nodemon, which relode the code as soon changes are saved and deteced
+After install nodemon, which relode the code as soon changes are saved and deteced. Add the following below to the package.json file.
 
 ```
   "scripts": {
