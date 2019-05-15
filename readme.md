@@ -2,7 +2,7 @@
 
 This is the Discord bot for the Infomation Technlolgy Club of Ivy Tech Community Colllege.
 
-#Requirment
+# Requirment
 1.Node.js
 2.Npm
 [Download Here] (https://nodejs.org/en/)
